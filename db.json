@@ -1,1 +1,444 @@
-{"Application":{"aboutUser":{"name":"Marija","lastName":"Inkogntiovska","proffession":"Web Developer","email":"marijaIncognito@gmail.com","aboutMe":"Madison Blackstone is a director of brand marketing, with experience managing ","coverLetter":"I want this job because .. .","student":true},"workHistory":[{"dateFrom":"_12.20.2023*","dateTo":"Current","jobTitle":"IOS DEVELOPER","company":"DumieData-!","dummie":true,"responsabilities":"Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"},{"dateFrom":"12.20.2019","dateTo":"Current","jobTitle":"IOS DEVELOPER","company":"Apple INC.","responsabilities":"Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"},{"dateFrom":"12.20.2019","dateTo":"Current","jobTitle":"IOS DEVELOPER","company":"Apple INC.","responsabilities":"Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"}],"education":[{"dateFrom":"_12.20.2023*","dateTo":"Current","title":"Bachelor of Software Engineering","university":"Ss. Cyril and Methodius University*-","city":"Skopje","dummie":true}],"contactInformation":{"streetAddress":"Jane Sandanski 36/-14","city":"Skopje","country":"Aerodrom","zip":"1000","phone":"072 71 49 50","skills":"Hard Working, Organizational Skills, Team Skills, Office"},"languages":[{"language":"English","proficiency":"A1"},{"language":"German","proficiency":"C1"}]},"Company":{"companyInfo":{"companyID":"comIDSN3959593495","companyName":"string","industry":"string","personFirstName":"string","address":"string","phone":"string","country":"string","city":"string","companySize":"string","companyIdNumber":"string","email":"string","password":"string","verified":true},"contactInformation":{"streetAddress":"Jane Sandanski 36/-14","city":"Skopje","country":"Aerodrom","zip":"1000","phone":"072 71 49 50","languages":["English","Albanian"]},"emergencyContact":[{"contactPerson":"","phoneNummber":"","email":""}],"interviews":[{"interviewID":"intIDSN21315","jobID":"","jobTitle":"Kitchen Worker","companyId":"23","companyPersonName":"Mark","companyPersonLstName":"Trenz","userId":"5asdasdas","userFirstName":"Nikola","userLastName":"Efremovski","msgs":[null]}],"documents":{"companyBill":"/student/$userId/url","contactPersonPassport":"/student/$userId/url","id":"/student/$userId/url"},"jobs":[]},"User":{"userID":"usrIDSN2895864","aboutUser":{"secret":"as34da!sdaer","name":"Marija","lastName":"Inkogntiovska","proffession":"Web Developer","student":true,"email":"marijaIncognito@gmail.com","aboutMe":"Madison Blackstone is a director of brand marketing, with experience man"},"workHistory":[{"dateFrom":"_12.20.2023*","dateTo":"Current","jobTitle":"IOS DEVELOPER","company":"DumieData-!","dummie":true,"responsabilities":"Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"},{"dateFrom":"12.20.2019","dateTo":"Current","jobTitle":"IOS DEVELOPER","company":"Apple INC.","responsabilities":"Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"}],"education":[{"dateFrom":"_12.20.2023*","dateTo":"Current","title":"Bachelor of Software Engineering","university":"Ss. Cyril and Methodius University*-","city":"Skopje","dummie":true}],"contactInformation":{"streetAddress":"Jane Sandanski 36/-14","city":"Skopje","country":"Aerodrom","zip":"1000","phone":"072 71 49 50","skills":"Hard Working, Organizational Skills, Team Skills, Office","languages":"German, English, Albanian"},"languages":[{"language":"English","proficiency":"A1"},{"language":"German","proficiency":"C1"}],"emergencyContact":[{"contactPerson":"","phoneNummber":"","email":""}],"applications":[{}],"interviews":[{}],"jobs":[{}],"documents":{"passport":"/student/$userId/url","studentDoc":"/student/$userId/url","id":"/student/$userId/url","diplomas":{"languages":["/student/$userId/diplomas/url"],"education":["/student/$userId/diplomas/url"],"certificates":["/student/$userId/diplomas/url"]}}},"Interview":{"jobID":"jobIDSN1000 ","jobTitle":"Kitchen Worker","companyID":"comIDSN3959593495","companyPersonName":"Mark","companyPersonLstName":"Trenz","userID":"usrIDSN2895864","userFirstName":"Nikola","userLastName":"Efremovski","msgs":[{"user":"userFirstName userLastName","msg":""}]},"Job":{"jobID":"jobIDSN129459","active":true,"jobTitle":"KITCHEN WORKER AT RATSKELLER MUNCHEN","companySize":50,"address":"32st Mincehn Kursusten","email":"info@mdonalds.com","contactPerson":"John Lock","telephone":"+388 72848271","hourlyPrice":10,"qualifications":["Critical thinking","Teamwork","Time management","Strategizing","Multitasking","Decision-making"],"responsabilities":["Critical thinking","Teamwork","Time management","Strategizing","Multitasking","Decision-making"],"jobDescr":"Recognizing that workforce needs are continually evolving, many employers now include a l","category":"Gastronomy","location":"Germany","company":"xxxxx","weeklyHours":50,"accomodation":true,"applications":[{}],"positionsLeft":5,"food":true,"student":true,"dateFrom":"31.11.2020","dateTo":"15.06.2021","interviewing":[{"interviewID":"interview+JobID","userID":"usrIDSN12385"}],"hired":[{}]}}
+{
+  "Application": {
+    "aboutUser": {
+      "userID": "usrIDSNsafs1423",
+      "name": "Marija",
+      "lastName": "Inkogntiovska",
+      "proffession": "Web Developer",
+      "email": "marijaIncognito@gmail.com",
+      "aboutMe": "Madison Blackstone is a director of brand marketing, with experience managing ",
+      "coverLetter": "I want this job because .. .",
+      "student": true
+    },
+    "workHistory": [
+      {
+        "dateFrom": "_12.20.2023*",
+        "dateTo": "Current",
+        "jobTitle": "IOS DEVELOPER",
+        "company": "DumieData-!",
+        "dummie": true,
+        "responsabilities": "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
+      },
+      {
+        "dateFrom": "12.20.2019",
+        "dateTo": "Current",
+        "jobTitle": "IOS DEVELOPER",
+        "company": "Apple INC.",
+        "responsabilities": "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
+      },
+      {
+        "dateFrom": "12.20.2019",
+        "dateTo": "Current",
+        "jobTitle": "IOS DEVELOPER",
+        "company": "Apple INC.",
+        "responsabilities": "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
+      }
+    ],
+    "education": [
+      {
+        "dateFrom": "_12.20.2023*",
+        "dateTo": "Current",
+        "title": "Bachelor of Software Engineering",
+        "university": "Ss. Cyril and Methodius University*-",
+        "city": "Skopje",
+        "dummie": true
+      }
+    ],
+    "contactInformation": {
+      "streetAddress": "Jane Sandanski 36/-14",
+      "city": "Skopje",
+      "country": "Aerodrom",
+      "zip": "1000",
+      "phone": "072 71 49 50",
+      "skills": "Hard Working, Organizational Skills, Team Skills, Office"
+    },
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "A1"
+      },
+      {
+        "language": "German",
+        "proficiency": "C1"
+      }
+    ]
+  },
+  "Company": {
+    "companyInfo": {
+      "secretKey": "asdasda",
+      "companyID": "comIDSN3959593495",
+      "companyName": "string",
+      "industry": "string",
+      "personFirstName": "string",
+      "address": "string",
+      "phone": "string",
+      "country": "string",
+      "city": "string",
+      "companySize": "string",
+      "companyIdNumber": "string",
+      "email": "string",
+      "password": "string",
+      "verified": true
+    },
+    "contactInformation": {
+      "streetAddress": "Jane Sandanski 36/-14",
+      "city": "Skopje",
+      "country": "Aerodrom",
+      "zip": "1000",
+      "phone": "072 71 49 50",
+      "languages": [
+        "English",
+        "Albanian"
+      ]
+    },
+    "emergencyContact": [
+      {
+        "contactPerson": "",
+        "phoneNummber": "",
+        "email": ""
+      }
+    ],
+    "interviews": [
+      {
+        "interviewID": "intIDSN21315",
+        "jobID": "",
+        "jobTitle": "Kitchen Worker",
+        "companyId": "23",
+        "companyPersonName": "Mark",
+        "companyPersonLstName": "Trenz",
+        "userId": "5asdasdas",
+        "userFirstName": "Nikola",
+        "userLastName": "Efremovski",
+        "msgs": [
+          null
+        ]
+      }
+    ],
+    "documents": {
+      "companyBill": "/student/$userId/url",
+      "contactPersonPassport": "/student/$userId/url",
+      "id": "/student/$userId/url"
+    },
+    "jobs": [],
+    "notifications": []
+  },
+  "User": {
+    "userID": "usrIDSN2895864",
+    "aboutUser": {
+      "secret": "as34da!sdaer",
+      "name": "Marija",
+      "lastName": "Inkogntiovska",
+      "proffession": "Web Developer",
+      "student": true,
+      "email": "marijaIncognito@gmail.com",
+      "aboutMe": "Madison Blackstone is a director of brand marketing, with experience man"
+    },
+    "workHistory": [
+      {
+        "dateFrom": "_12.20.2023*",
+        "dateTo": "Current",
+        "jobTitle": "IOS DEVELOPER",
+        "company": "DumieData-!",
+        "dummie": true,
+        "responsabilities": "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
+      },
+      {
+        "dateFrom": "12.20.2019",
+        "dateTo": "Current",
+        "jobTitle": "IOS DEVELOPER",
+        "company": "Apple INC.",
+        "responsabilities": "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
+      }
+    ],
+    "education": [
+      {
+        "dateFrom": "_12.20.2023*",
+        "dateTo": "Current",
+        "title": "Bachelor of Software Engineering",
+        "university": "Ss. Cyril and Methodius University*-",
+        "city": "Skopje",
+        "dummie": true
+      }
+    ],
+    "contactInformation": {
+      "streetAddress": "Jane Sandanski 36/-14",
+      "city": "Skopje",
+      "country": "Aerodrom",
+      "zip": "1000",
+      "phone": "072 71 49 50",
+      "skills": "Hard Working, Organizational Skills, Team Skills, Office",
+      "languages": "German, English, Albanian"
+    },
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "A1"
+      },
+      {
+        "language": "German",
+        "proficiency": "C1"
+      }
+    ],
+    "emergencyContact": [
+      {
+        "contactPerson": "",
+        "phoneNummber": "",
+        "email": ""
+      }
+    ],
+    "applications": [
+      {}
+    ],
+    "interviews": [
+      {}
+    ],
+    "jobs": [
+      {}
+    ],
+    "documents": {
+      "passport": "/student/$userId/url",
+      "studentDoc": "/student/$userId/url",
+      "id": "/student/$userId/url",
+      "diplomas": {
+        "languages": [
+          "/student/$userId/diplomas/url"
+        ],
+        "education": [
+          "/student/$userId/diplomas/url"
+        ],
+        "certificates": [
+          "/student/$userId/diplomas/url"
+        ]
+      }
+    }
+  },
+  "Interview": {
+    "jobID": "jobIDSN1000 ",
+    "blocked": false,
+    "jobTitle": "Kitchen Worker",
+    "companyID": "comIDSN3959593495",
+    "companyPersonName": "Mark",
+    "companyPersonLstName": "Trenz",
+    "userID": "usrIDSN2895864",
+    "userFirstName": "Nikola",
+    "userLastName": "Efremovski",
+    "msgs": [
+      {
+        "user": "userFirstName userLastName",
+        "msg": ""
+      }
+    ]
+  },
+  "jobs": [
+    {
+      "jobID": "jobIDSN129459",
+      "active": true,
+      "jobTitle": "KITCHEN WORKER AT RATSKELLER MUNCHEN",
+      "companySize": 50,
+      "address": "32st Mincehn Kursusten",
+      "email": "info@mdonalds.com",
+      "contactPerson": "John Lock",
+      "telephone": "+388 72848271",
+      "hourlyPrice": 10,
+      "qualifications": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "responsabilities": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "jobDescr": "Recognizing that workforce needs are continually evolving, many employers now include a l",
+      "category": "Gastronomy",
+      "location": "Germany",
+      "company": "xxxxx",
+      "weeklyHours": 50,
+      "accomodation": true,
+      "applications": [
+        {}
+      ],
+      "positionsLeft": 5,
+      "food": true,
+      "student": true,
+      "dateFrom": "31.11.2020",
+      "dateTo": "15.06.2021",
+      "interviewing": [
+        {
+          "interviewID": "interview+JobID",
+          "userID": "usrIDSN12385"
+        }
+      ],
+      "hired": [
+        {}
+      ]
+    },
+    {
+      "jobID": "jobIDSN129459",
+      "active": true,
+      "jobTitle": "KITCHEN WORKER AT RATSKELLER MUNCHEN",
+      "companySize": 50,
+      "address": "32st Mincehn Kursusten",
+      "email": "info@mdonalds.com",
+      "contactPerson": "John Lock",
+      "telephone": "+388 72848271",
+      "hourlyPrice": 10,
+      "qualifications": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "responsabilities": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "jobDescr": "Recognizing that workforce needs are continually evolving, many employers now include a l",
+      "category": "Gastronomy",
+      "location": "Germany",
+      "company": "xxxxx",
+      "weeklyHours": 50,
+      "accomodation": true,
+      "applications": [
+        {}
+      ],
+      "positionsLeft": 5,
+      "food": true,
+      "student": true,
+      "dateFrom": "31.11.2020",
+      "dateTo": "15.06.2021",
+      "interviewing": [
+        {
+          "interviewID": "interview+JobID",
+          "userID": "usrIDSN12385"
+        }
+      ],
+      "hired": [
+        {}
+      ]
+    },
+    {
+      "jobID": "asdasdsad",
+      "id": "1",
+      "createdAt": 1582664889363,
+      "slug": "asdasdsad"
+    },
+    {
+      "jobID": "asdassdsad",
+      "id": "21",
+      "active": true,
+      "jobTitle": "KITCHEN WORKER AT RATSKELLER MUNCHEN",
+      "companySize": 50,
+      "address": "32st Mincehn Kursusten",
+      "email": "info@mdonalds.com",
+      "contactPerson": "John Lock",
+      "telephone": "+388 72848271",
+      "hourlyPrice": 10,
+      "qualifications": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "responsabilities": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "jobDescr": "Recognizing that workforce needs are continually evolving, many employers now include a l",
+      "category": "Gastronomy",
+      "location": "Germany",
+      "company": "xxxxx",
+      "weeklyHours": 50,
+      "accomodation": true,
+      "applications": [
+        {}
+      ],
+      "positionsLeft": 5,
+      "food": true,
+      "student": true,
+      "dateFrom": "31.11.2020",
+      "dateTo": "15.06.2021",
+      "interviewing": [
+        {
+          "interviewID": "interview+JobID",
+          "userID": "usrIDSN12385"
+        }
+      ],
+      "hired": [
+        {}
+      ],
+      "createdAt": 1582665131660,
+      "slug": "asdassdsad"
+    },
+    {
+      "jobID": "zombi",
+      "id": "221",
+      "active": true,
+      "jobTitle": "KITCHEN WORKER AT RATSKELLER MUNCHEN",
+      "companySize": 50,
+      "address": "32st Mincehn Kursusten",
+      "email": "info@mdonalds.com",
+      "contactPerson": "John Lock",
+      "telephone": "+388 72848271",
+      "hourlyPrice": 10,
+      "qualifications": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "responsabilities": [
+        "Critical thinking",
+        "Teamwork",
+        "Time management",
+        "Strategizing",
+        "Multitasking",
+        "Decision-making"
+      ],
+      "jobDescr": "Recognizing that workforce needs are continually evolving, many employers now include a l",
+      "category": "Gastronomy",
+      "location": "Germany",
+      "company": "xxxxx",
+      "weeklyHours": 50,
+      "accomodation": true,
+      "applications": [
+        {}
+      ],
+      "positionsLeft": 5,
+      "food": true,
+      "student": true,
+      "dateFrom": "31.11.2020",
+      "dateTo": "15.06.2021",
+      "interviewing": [
+        {
+          "interviewID": "interview+JobID",
+          "userID": "usrIDSN12385"
+        }
+      ],
+      "hired": [
+        {}
+      ]
+    }
+  ]
+}
