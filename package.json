@@ -4,6 +4,8 @@
   "description": "",
   "main": "apiServer.js",
   "scripts": {
+    "start": "node ./apiServer.js",
+    "refresh": "node ./createMockDb.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
