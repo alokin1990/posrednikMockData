@@ -4,6 +4,7 @@ module.exports = {
   locked: "",
   student: false,
   verified: false,
+  passsword: "",
   userInfo: {
     name: "Marija",
     lastName: "Inkogntiovska",
