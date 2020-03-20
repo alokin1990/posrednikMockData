@@ -45,8 +45,7 @@ module.exports = {
     country: "Aerodrom",
     zip: "1000",
     phone: "072 71 49 50",
-    skills: "Hard Working, Organizational Skills, Team Skills, Office",
-    languages: "German, English, Albanian"
+    skills: "Hard Working, Organizational Skills, Team Skills, Office"
   },
   languages: [
     {
@@ -65,13 +64,9 @@ module.exports = {
       email: ""
     }
   ],
-  applications: [
-    {} //applications -> point with ids
-  ],
-  interviews: [
-    {} //interviews -> point with ids
-  ],
-  jobs: [{}],
+  applications: ["jobID"], // FIlter by active and arhived later
+  interviews: ["JOBID"], // User can accept this jobs because he is already accepted by the company
+  jobs: ["jobID"],
   documents: {
     passport: "/student/$userId/url",
     studentDoc: "/student/$userId/url",

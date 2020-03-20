@@ -1,7 +1,7 @@
 module.exports = {
+  _id: "21nj31231",
   companyInfo: {
     secretKey: "asdasda",
-    companyID: "comIDSN3959593495",
     companyName: "string",
     industry: "string",
     personFirstName: "string",
@@ -10,7 +10,7 @@ module.exports = {
     country: "string",
     city: "string",
     companySize: "string",
-    companyIdNumber: "string",
+    companyTaxNumber: "string",
     email: "string",
     password: "string",
     verified: true
@@ -24,20 +24,6 @@ module.exports = {
     languages: ["English", "Albanian"]
   },
   emergencyContact: [{ contactPerson: "", phoneNummber: "", email: "" }],
-  interviews: [
-    {
-      interviewID: "intIDSN21315", //= interview + jobID ?
-      jobID: "",
-      jobTitle: "Kitchen Worker",
-      companyId: "23",
-      companyPersonName: "Mark",
-      companyPersonLstName: "Trenz",
-      userId: "5asdasdas",
-      userFirstName: "Nikola",
-      userLastName: "Efremovski",
-      msgs: [Array]
-    }
-  ],
   documents: {
     companyBill: "/student/$userId/url",
     contactPersonPassport: "/student/$userId/url",

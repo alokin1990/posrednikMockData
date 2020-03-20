@@ -10,6 +10,11 @@ module.exports = {
     coverLetter: "I want this job because .. .",
     student: true
   },
+  userDesire: {
+    desiredSalary: 1000,
+    desiredCity: "Berlin",
+    desiredPosition: 
+  },
   workHistory: [
     {
       dateFrom: "_12.20.2023*",
