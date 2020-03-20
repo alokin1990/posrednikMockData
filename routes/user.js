@@ -1,14 +1,17 @@
 module.exports = {
   userID: "usrIDSN2895864",
-  aboutUser: {
-    secret: "as34da!sdaer",
+  secret: "",
+  locked: "",
+  student: false,
+  verified: false,
+  passsword: "",
+  userInfo: {
     name: "Marija",
     lastName: "Inkogntiovska",
     proffession: "Web Developer",
-    student: true,
-    email: "marijaIncognito@gmail.com",
     aboutMe:
-      "Madison Blackstone is a director of brand marketing, with experience man"
+      "Madison Blackstone is a director of brand marketing, with experience man",
+    passport: "Macedonian"
   },
   workHistory: [
     {
@@ -16,15 +19,6 @@ module.exports = {
       dateTo: "Current",
       jobTitle: "IOS DEVELOPER",
       company: "DumieData-!",
-      dummie: true,
-      responsabilities:
-        "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
-    },
-    {
-      dateFrom: "12.20.2019",
-      dateTo: "Current",
-      jobTitle: "IOS DEVELOPER",
-      company: "Apple INC.",
       responsabilities:
         "Backend Development, Frontentd Development, Server Management, Scored 20% increase in proffit"
     }
@@ -35,18 +29,10 @@ module.exports = {
       dateTo: "Current",
       title: "Bachelor of Software Engineering",
       university: "Ss. Cyril and Methodius University*-",
-      city: "Skopje",
-      dummie: true
+      country: "Skopje"
     }
   ],
-  contactInformation: {
-    streetAddress: "Jane Sandanski 36/-14",
-    city: "Skopje",
-    country: "Aerodrom",
-    zip: "1000",
-    phone: "072 71 49 50",
-    skills: "Hard Working, Organizational Skills, Team Skills, Office"
-  },
+  skills: ["Hard Working", "Organizational Skills", "Team Skills", "Office"],
   languages: [
     {
       language: "English",
@@ -57,6 +43,14 @@ module.exports = {
       proficiency: "C1"
     }
   ],
+  contactInformation: {
+    streetAddress: "Jane Sandanski 36/-14",
+    city: "Skopje",
+    country: "Aerodrom",
+    zip: "1000",
+    phone: "072 71 49 50",
+    email: "marijaIncognito@gmail.com"
+  },
   emergencyContact: [
     {
       contactPerson: "",
@@ -64,9 +58,23 @@ module.exports = {
       email: ""
     }
   ],
-  applications: ["jobID"], // FIlter by active and arhived later
-  interviews: ["JOBID"], // User can accept this jobs because he is already accepted by the company
-  jobs: ["jobID"],
+  socialMedia: {
+    facebook: "url",
+    linkedin: "url",
+    instagram: "url"
+  },
+
+  applications: [
+    "JOBID" //JOBID of the applied jobs
+  ],
+  notifications: [
+    {
+      userId: "",
+      userName: "Admin",
+      msg: "Rabotodavecot ve prifati, platete gi troskovite za da se vrabotite"
+    }
+  ],
+  jobs: ["JOBID"], //JOBID of the accepted jobs
   documents: {
     passport: "/student/$userId/url",
     studentDoc: "/student/$userId/url",
